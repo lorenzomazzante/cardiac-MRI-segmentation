@@ -1,1 +1,0 @@
-# cardiac-MRI-segmentation
